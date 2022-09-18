@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "COvEzfZZJinalU39GpjbgKR5JjWXxFijN4opy7xoB3J0aqtIs+Bq9yShrQ9e1GRfnjCw22YGE7MpVTPp/W8rUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szaba\\OneDrive\\Asztali gép\\ToGithub\\Asp-Net-Core\\PDFConverterSyncfusion\\PDFConverterSyncfusion\\PDFConverterSyncfusion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szaba\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.compression.base\\19.3.0.48\\syncfusion.compression.base.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.docio.wpf\\19.3.0.48\\syncfusion.docio.wpf.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.doctopdfconverter.wpf\\19.3.0.48\\syncfusion.doctopdfconverter.wpf.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.licensing\\19.3.0.48\\syncfusion.licensing.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.officechart.base\\19.3.0.48\\syncfusion.officechart.base.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.pdf.wpf\\19.3.0.48\\syncfusion.pdf.wpf.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\19.3.0.48\\syncfusion.sfskinmanager.wpf.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.shared.wpf\\19.3.0.48\\syncfusion.shared.wpf.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\19.3.0.48\\syncfusion.themes.fluentlight.wpf.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\szaba\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
